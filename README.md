@@ -9,5 +9,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # BeaTaskApp
-app to boost productivity and for focusing sessions
+app to boost productivity and for focusing sessions <br>
+TODO LIST to track tasks <br>
+CHRONOMETER for focused session <br>
+POMODORO for more productive sessions <br>
+TIME CLOCK <br>
+CUSTOMIZABLE YOUTUBE API BASED PLAYLIST to add favorite songs and play them continuously <br>
 >>>>>>> 5fa7dd24ae3037bf7c15dc5ed3288e09d5039df0
